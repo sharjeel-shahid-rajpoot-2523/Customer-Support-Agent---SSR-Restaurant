@@ -89,6 +89,48 @@ The system:
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
+📸 Screenshots
+_____________________________________________________________________________________________________________________________________________________________________________
+
+🔄 n8n Automation Workflow: 
+
+![n8n Workflow](<Customer Support Agent - SSR Restaurant - Workflow.jpeg>)
+
+💬 WhatsApp AI Customer Support
+
+![WhatsApp Customer Support](<Customer Support Agent - SSR Restaurant (1).jpeg>)
+
+🍔 Menu & Customer Interaction
+
+![Menu Interaction](<Customer Support Agent - SSR Restaurant (2).jpeg>)
+
+🛒 Automated Ordering
+
+![Automated Ordering](<Customer Support Agent - SSR Restaurant (3).jpeg>)
+
+✅ Order Confirmation
+
+![Order Confirmation](<Customer Support Agent - SSR Restaurant (4).jpeg>)
+
+📦 Customer Support Flow
+
+![Customer Support Flow](<Customer Support Agent - SSR Restaurant (5).jpeg>)
+
+📊 Order / Data Management
+
+![Data Management](<Customer Support Agent - SSR Restaurant (6).jpeg>)
+
+_____________________________________________________________________________________________________________________________________________________________________________
+
+🎥 Project Demo
+_____________________________________________________________________________________________________________________________________________________________________________
+
+Watch the complete SSR Restaurant WhatsApp AI Customer Support automation in action.
+
+▶️ **[Watch Project Demo](https://youtu.be/eRCEcAYeKJI?si=UCLte3eFf1UVJe8q)**
+
+_____________________________________________________________________________________________________________________________________________________________________________
+
 🏗️ Workflow Architecture
 _____________________________________________________________________________________________________________________________________________________________________________
 ```text
